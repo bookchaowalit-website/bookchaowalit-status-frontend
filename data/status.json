@@ -1,0 +1,7 @@
+{
+  "services": [
+    {"name": "Website", "status": "operational", "uptime": "99.9%"},
+    {"name": "API", "status": "operational", "uptime": "99.8%"}
+  ],
+  "incidents": []
+}
