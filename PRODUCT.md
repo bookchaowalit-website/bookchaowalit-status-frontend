@@ -22,6 +22,12 @@ See `README.md` for install and run instructions when present.
 ## Source README excerpt
 
 ```
+
+## Current product truth
+
+- Shows authored sample service statuses, uptime values, an empty incident log, and one monitoring advisory.
+- The 24h/7d/30d controls change the displayed sample window label only.
+- No live probes, monitoring backend, notification channel, incident history, or uptime guarantee.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
